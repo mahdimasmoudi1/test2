@@ -1,0 +1,40 @@
+2023.01.24 08:21:10 INFO  ce[][o.s.p.ProcessEntryPoint] Gracefully stopping process
+2023.01.24 08:21:10 INFO  ce[][o.s.ce.app.CeServer] Compute Engine is stopping...
+2023.01.24 08:21:10 INFO  ce[][o.s.c.t.CeProcessingSchedulerImpl] Gracefully stopping workers...
+2023.01.24 08:21:10 INFO  ce[][o.s.ce.app.CeServer] Compute Engine is stopped
+2023.01.24 08:32:51 INFO  ce[][o.s.p.ProcessEntryPoint] Starting ce
+2023.01.24 08:32:51 INFO  ce[][o.s.ce.app.CeServer] Compute Engine starting up...
+2023.01.24 08:32:52 INFO  ce[][o.e.p.PluginsService] no modules loaded
+2023.01.24 08:32:52 INFO  ce[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2023.01.24 08:32:52 INFO  ce[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2023.01.24 08:32:52 INFO  ce[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2023.01.24 08:32:53 INFO  ce[][o.s.s.e.EsClientProvider] Connected to local Elasticsearch: [127.0.0.1:9001]
+2023.01.24 08:32:53 INFO  ce[][o.sonar.db.Database] Create JDBC data source for jdbc:h2:tcp://127.0.0.1:9092/sonar
+2023.01.24 08:32:53 WARN  ce[][o.s.db.dialect.H2] H2 database should be used for evaluation purpose only.
+2023.01.24 08:32:54 INFO  ce[][o.s.s.p.ServerFileSystemImpl] SonarQube home: /opt/sonarqube
+2023.01.24 08:32:55 INFO  ce[][o.s.c.c.CePluginRepository] Load plugins
+2023.01.24 08:32:56 INFO  ce[][o.s.c.c.ComputeEngineContainerImpl] Running Community edition
+2023.01.24 08:32:56 INFO  ce[][o.s.ce.app.CeServer] Compute Engine is operational
+2023.01.24 08:32:58 INFO  ce[][o.s.c.t.CeWorkerImpl] worker AYXi6KcBBteDqtmn2Etd found no pending task (including indexation task). Disabling indexation task lookup for this worker until next SonarQube restart.
+2023.01.24 08:37:44 INFO  ce[][o.s.p.ProcessEntryPoint] Gracefully stopping process
+2023.01.24 08:37:44 INFO  ce[][o.s.ce.app.CeServer] Compute Engine is stopping...
+2023.01.24 08:37:44 INFO  ce[][o.s.c.t.CeProcessingSchedulerImpl] Gracefully stopping workers...
+2023.01.24 08:37:45 INFO  ce[][o.s.ce.app.CeServer] Compute Engine is stopped
+2023.01.24 08:39:50 INFO  ce[][o.s.p.ProcessEntryPoint] Starting ce
+2023.01.24 08:39:50 INFO  ce[][o.s.ce.app.CeServer] Compute Engine starting up...
+2023.01.24 08:39:51 INFO  ce[][o.e.p.PluginsService] no modules loaded
+2023.01.24 08:39:51 INFO  ce[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.join.ParentJoinPlugin]
+2023.01.24 08:39:51 INFO  ce[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.percolator.PercolatorPlugin]
+2023.01.24 08:39:51 INFO  ce[][o.e.p.PluginsService] loaded plugin [org.elasticsearch.transport.Netty4Plugin]
+2023.01.24 08:39:52 INFO  ce[][o.s.s.e.EsClientProvider] Connected to local Elasticsearch: [127.0.0.1:9001]
+2023.01.24 08:39:52 INFO  ce[][o.sonar.db.Database] Create JDBC data source for jdbc:h2:tcp://127.0.0.1:9092/sonar
+2023.01.24 08:39:52 WARN  ce[][o.s.db.dialect.H2] H2 database should be used for evaluation purpose only.
+2023.01.24 08:39:53 INFO  ce[][o.s.s.p.ServerFileSystemImpl] SonarQube home: /opt/sonarqube
+2023.01.24 08:39:54 INFO  ce[][o.s.c.c.CePluginRepository] Load plugins
+2023.01.24 08:39:55 INFO  ce[][o.s.c.c.ComputeEngineContainerImpl] Running Community edition
+2023.01.24 08:39:55 INFO  ce[][o.s.ce.app.CeServer] Compute Engine is operational
+2023.01.24 08:39:57 INFO  ce[][o.s.c.t.CeWorkerImpl] worker AYXi7wuRXL26zeu5Otko found no pending task (including indexation task). Disabling indexation task lookup for this worker until next SonarQube restart.
+2023.01.24 10:45:54 INFO  ce[][o.s.p.ProcessEntryPoint] Gracefully stopping process
+2023.01.24 10:45:54 INFO  ce[][o.s.ce.app.CeServer] Compute Engine is stopping...
+2023.01.24 10:45:54 INFO  ce[][o.s.c.t.CeProcessingSchedulerImpl] Gracefully stopping workers...
+2023.01.24 10:45:54 INFO  ce[][o.s.ce.app.CeServer] Compute Engine is stopped
